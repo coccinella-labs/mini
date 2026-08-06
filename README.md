@@ -1,5 +1,7 @@
 # mini
 
+[![Release](https://img.shields.io/github/v/release/libnudget/mini?logo=github&label=latest)](https://github.com/libnudget/mini/releases)
+
 A tiny, dependency-free HTTP client for Go.
 
 mini exposes a straightforward request/response API with no third-party
@@ -9,7 +11,7 @@ runtimes, and it can be vendored directly into any project.
 ## Installation
 
 ```sh
-go get github.com/libnudget/mini@v0.1.0
+go get github.com/libnudget/mini@latest
 ```
 
 ## Usage
