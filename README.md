@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/mini/main/.github/assets/thumbnail.png" alt="mini" width="100%">
+</p>
+
 # mini
 
 [![Release](https://img.shields.io/github/v/release/libnudget/mini?logo=github&label=latest)](https://github.com/libnudget/mini/releases)
