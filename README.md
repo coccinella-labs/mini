@@ -4,7 +4,7 @@
 
 # mini
 
-[![Release](https://img.shields.io/github/v/release/libnudget/mini?logo=github&label=latest)](https://github.com/libnudget/mini/releases)
+[![Release](https://img.shields.io/github/v/release/coccinella-labs/mini?logo=github&label=latest)](https://github.com/coccinella-labs/mini/releases)
 
 A tiny, dependency-free HTTP client for Go.
 
@@ -15,13 +15,13 @@ runtimes, and it can be vendored directly into any project.
 ## Installation
 
 ```sh
-go get github.com/libnudget/mini@latest
+go get github.com/coccinella-labs/mini@latest
 ```
 
 ## Usage
 
 ```go
-import "github.com/libnudget/mini"
+import "github.com/coccinella-labs/mini"
 
 resp, err := mini.Get("https://example.com/health")
 if err != nil {
